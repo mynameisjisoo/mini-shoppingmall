@@ -6,30 +6,30 @@
 
 ### 사용기술
 
-- HTML, CSS, JavaScript </br>
+HTML, CSS, JavaScript </br>
 
 ### Screen Shot
 
 #### 👇 반응형 - 넓은 화면
 
 <img src ="https://user-images.githubusercontent.com/84840032/135466716-0352267d-2aa5-46bf-a95c-14be044dfd6c.png" width ="600">
-</br> </br>
+</br>
 
 #### 👇 반응형 - 좁은 화면
 
 <img src ="https://user-images.githubusercontent.com/84840032/135466689-5f6b37bc-373f-46ea-96df-194895a8b26f.png" height="500">
-</br> </br>
+</br>
 
 #### 👇 필터링 기능 - 바지🩳 아이템만 보여주기
 
 <img src ="https://user-images.githubusercontent.com/84840032/135470351-89032438-7423-4743-996e-19be392f0793.png" height="500">
-</br> </br>
+</br>
 
 #### 👇 필터링 기능 - 노란색💛 아이템만 보여주기
 
 <img src ="https://user-images.githubusercontent.com/84840032/135470575-7b57ada2-2369-4724-bfa2-e8900ea2752f.png" height="500">
 
-</br></br>
+</br>
 
 ### 구현사항
 

@@ -18,7 +18,6 @@
 
 body {
   background-color: var(--color-black);
-  /* text-align: center; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -96,7 +95,6 @@ body {
   margin: 0 calc(var(--size-base-space) * 2) 0 calc(var(--size-base-space) * 2);
 }
 
-.gender,
-.size {
+.description {
   font-size: var(--size-font);
 }
