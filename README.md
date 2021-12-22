@@ -2,6 +2,8 @@
 
 ### Vanila javaScript를 이용한 반응형 미니 쇼핑몰 프로젝트
 
+### [✨ Demo Link ✨](https://mynameisjisoo.github.io/mini-shoppingmall/)
+
 </br>
 
 ### 사용기술
@@ -39,6 +41,7 @@ HTML, CSS, JavaScript </br>
 - 가져온 데이터를 자바스크립트를 통해 동적으로 html에 추가함.
 - 로고를 누르면 전체 목록을 보여주고 로고 아래의 버튼을 누르면 필터링된 아이템만 보여줌.
 - 각각의 버튼에 이벤트를 적용하지 않고 버튼을 담고있는 컨테이너 요소에 이벤트를 적용하여 이벤트 위임함
+- github pages를 이용해 배포함
   </br></br>
 
 ### 참고한 강의
